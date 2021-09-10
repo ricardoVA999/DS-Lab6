@@ -1,2 +1,3 @@
 # DS-Lab6
-Ricardo Valenzuela
+Ricardo Valenzuela  
+Diego Solorzano
